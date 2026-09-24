@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837423786545",
+    "project_id": "catalogo-ia-fd4fb",
+    "storage_bucket": "catalogo-ia-fd4fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837423786545:android:9dda0399db83297d660310",
+        "android_client_info": {
+          "package_name": "com.beatriz.catalogoia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfb6Epq6dq0Dx8HeRy3SIxIU5XXM-vP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
