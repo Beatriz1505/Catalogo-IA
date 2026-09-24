@@ -1,5 +1,3 @@
-Claro! Eu deixaria mais **bonito, organizado e com cara de README de projeto escolar**, mas sem ficar exageradamente “profissional demais”. Já deixei pronto para você copiar e colar no `README.md`:
-
 ````markdown
 # Catálogo de Modelos de IA
 
