@@ -1,4 +1,3 @@
-````markdown
 # Catálogo de Modelos de IA
 
 Aplicativo Android desenvolvido em Kotlin com Jetpack Compose e Firebase Firestore para o cadastro e gerenciamento de modelos e arquiteturas de Inteligência Artificial.
@@ -11,9 +10,9 @@ O aplicativo apresenta um catálogo de arquiteturas e modelos de Inteligência A
 
 Alguns exemplos de modelos que podem ser cadastrados:
 
-- ResNet
-- Inception
-- BERT
+* ResNet
+* Inception
+* BERT
 
 ## Objetivo
 
@@ -21,34 +20,34 @@ O objetivo do aplicativo é demonstrar, de forma prática, a utilização de um 
 
 ## Tecnologias utilizadas
 
-- Kotlin
-- Jetpack Compose
-- Android Studio
-- Firebase Firestore
-- Material 3
-- Gradle
+* Kotlin
+* Jetpack Compose
+* Android Studio
+* Firebase Firestore
+* Material 3
+* Gradle
 
 ## Funcionalidades
 
-- Cadastro de modelos de IA
-- Listagem dos modelos cadastrados
-- Edição de modelos
-- Exclusão de modelos
-- Persistência dos dados no Firebase Firestore
-- Validação dos campos do formulário
-- Tratamento básico de carregamento e erros
+* Cadastro de modelos de IA
+* Listagem dos modelos cadastrados
+* Edição de modelos
+* Exclusão de modelos
+* Persistência dos dados no Firebase Firestore
+* Validação dos campos do formulário
+* Tratamento básico de carregamento e erros
 
 ## Dados cadastrados
 
 Cada modelo possui as seguintes informações:
 
-| Campo | Descrição |
-|---|---|
-| Nome | Nome do modelo de IA |
+| Campo       | Descrição                        |
+| ----------- | -------------------------------- |
+| Nome        | Nome do modelo de IA             |
 | Arquitetura | Tipo ou estrutura da arquitetura |
-| Descrição | Explicação sobre o modelo |
-| Ano | Ano relacionado ao modelo |
-| Aplicações | Principais áreas de utilização |
+| Descrição   | Explicação sobre o modelo        |
+| Ano         | Ano relacionado ao modelo        |
+| Aplicações  | Principais áreas de utilização   |
 
 ## Estrutura do Firebase Firestore
 
@@ -64,7 +63,7 @@ arquitetura
 descricao
 ano
 aplicacoes
-````
+```
 
 ## Configuração do projeto
 
@@ -112,26 +111,12 @@ Execute o aplicativo em um dispositivo físico ou emulador Android.
 
 ### Aplicativo
 
-Adicione aqui as imagens mostrando o funcionamento do aplicativo.
+<img width="360" height="800" alt="WhatsApp Image 2026-09-24 at 12 02 27 AM" src="https://github.com/user-attachments/assets/1d2588bd-6a53-4af5-9f94-a0d6c3aea6bb" />
+<img width="360" height="800" alt="WhatsApp Image 2026-09-24 at 12 02 28 AM" src="https://github.com/user-attachments/assets/7d258cd9-1301-40c8-9e34-81341a9ffad7" />
+<img width="360" height="800" alt="WhatsApp Image 2026-09-24 at 12 02 27 AM (1)" src="https://github.com/user-attachments/assets/c1ce52af-8979-45f9-96ef-ab0204116aeb" />
+<img width="360" height="800" alt="WhatsApp Image 2026-09-24 at 12 02 28 AM (1)" src="https://github.com/user-attachments/assets/759fe2b8-ead7-4af1-ac99-adb0c51928c1" />
+<img width="1440 " height="1024" alt="WhatsApp Image 2026-09-24 at 12 02 13 AM" src="https://github.com/user-attachments/assets/7b545612-9fba-435b-a09a-eeaec7a0e74f" />
 
-> 📷 **Imagem 1:** Tela principal com os modelos cadastrados.
-
-> 📷 **Imagem 2:** Tela de cadastro de um novo modelo.
-
-> 📷 **Imagem 3:** Tela de edição de um modelo.
-
-> 📷 **Imagem 4:** Dados cadastrados no Firebase Firestore.
-
-### Vídeo
-
-No vídeo são demonstrados:
-
-* Configuração e funcionamento do aplicativo;
-* Cadastro de um modelo;
-* Listagem dos modelos;
-* Edição de um modelo;
-* Exclusão de um modelo;
-* Persistência dos dados no Firebase Firestore.
 
 ## Estrutura do projeto
 
